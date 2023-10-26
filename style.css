@@ -14,10 +14,10 @@ body {
 h2{
   text-transform: uppercase;
   letter-spacing: 6px;
-  font-size: 18px;
+  font-size: 20px;
   text-align: center;
-  color: rgb(228, 230, 225);
-  text-shadow: 2px 7px 5px rgba(235, 231, 231, 0.3);
+  color: rgb(186, 249, 91);
+  text-shadow: 8px 10px 5px rgba(177, 174, 174, 0.5);
 }
 
 .clock {
@@ -32,7 +32,7 @@ h2{
 .clock span {
   width: 100px;
   height: 80px;
-  background: rgb(75, 72, 75);
+  background: rgb(12, 53, 1);
   opacity: .4;
   color: white;
   display: flex;
@@ -40,7 +40,7 @@ h2{
   align-items: center;
   font-size: 50px;
   text-shadow: 2px 2px 4px rgba(229, 224, 224, 0.3);
-  box-shadow: 10px 5px 5px rgb(137, 130, 130);
+  box-shadow: 10px 5px 5px rgb(9, 142, 2);
   border-radius: 40%;
 }
 
